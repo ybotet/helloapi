@@ -5,10 +5,12 @@ go run ./cmd/server
 
 <br><br>
 
-Структура проекта
+Структура проекта <br>
 <img width="235" height="276" alt="imagen" src="https://github.com/user-attachments/assets/45655648-d9e1-44c3-bdae-ef622c723964" />
 
 <br><br>
+Скриншоты
+<br>
 
 <img width="401" height="69" alt="imagen" src="https://github.com/user-attachments/assets/9cef6e43-c249-43b1-ba81-0cd37af0fc85" />
 <br>
