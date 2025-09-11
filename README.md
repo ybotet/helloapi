@@ -7,6 +7,10 @@ go run ./cmd/server
 Выполняется по адресу:
 <br>
 http://localhost:8080
+<br>
+http://localhost:8080/hello
+<br>
+http://localhost:8080/ping
 
 <br><br>
 
